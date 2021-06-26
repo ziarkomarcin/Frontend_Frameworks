@@ -24,6 +24,7 @@ const LinkIcon = styled.div`
         margin-top: .7rem;
         margin-left: 1.1rem;
         font-size: 1.5rem;
+        font-family: 'Raleway';
     }
     a{
         text-decoration:none;
