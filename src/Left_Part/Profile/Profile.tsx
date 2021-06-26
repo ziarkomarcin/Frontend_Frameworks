@@ -50,7 +50,7 @@ const Description = styled.div`
 `;
 const YourButtons = styled.div`
     margin-top: 2rem;
-    font-family: Tahoma;
+    font-family: 'Raleway';
     font-size:${Font_Size[20]};
     display:flex;
     width:100%;
